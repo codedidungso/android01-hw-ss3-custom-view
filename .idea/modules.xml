@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Homework-2-Custom-view.iml" filepath="$PROJECT_DIR$/Homework-2-Custom-view.iml" group="Homework-2-Custom-view" />
+      <module fileurl="file://$PROJECT_DIR$/app/Homework-2-Custom-view-app.iml" filepath="$PROJECT_DIR$/app/Homework-2-Custom-view-app.iml" group="Homework-2-Custom-view/app" />
+      <module fileurl="file://$PROJECT_DIR$/Homework2Demo.iml" filepath="$PROJECT_DIR$/Homework2Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
